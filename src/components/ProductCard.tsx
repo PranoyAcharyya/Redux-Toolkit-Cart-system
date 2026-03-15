@@ -29,7 +29,7 @@ const ProductCard = ({ product }: ProductCardProps) => {
   // }
 
   return (
-    <Card sx={{ maxWidth: 320, borderRadius: 3, boxShadow: 3 }}>
+    <Card sx={{borderRadius: 3, boxShadow: 3 }}>
       
       <CardMedia
         component="img"
